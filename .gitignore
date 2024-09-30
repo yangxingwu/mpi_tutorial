@@ -1,0 +1,8 @@
+# binary
+mpi_hello_world/mpi_hello_world
+
+# MAC Debug Symbols file
+*.dSYM
+
+# compile data base
+compile_commands.json
