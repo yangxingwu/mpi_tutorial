@@ -1,5 +1,19 @@
 # binary
 mpi_hello_world/mpi_hello_world
+intro_to_groups_and_communicators/comm_groups
+intro_to_groups_and_communicators/comm_split
+mpi_reduce_and_allreduce/reduce_avg
+mpi_reduce_and_allreduce/reduce_stddev
+mpi_alltoall/alltoall
+performing-parallel-rank-with-mpi/random_rank
+performing-parallel-rank-with-mpi/tmpi_rank
+mpi_send_and_receive/ping_pong
+mpi_send_and_receive/ring
+mpi_send_and_receive/send_recv
+mpi_broadcast_and_collective_communication/compare_bcast
+mpi_broadcast_and_collective_communication/my_bcast
+mpi_scatter_gather_and_allgather/all_avg
+mpi_scatter_gather_and_allgather/avg
 
 # MAC Debug Symbols file
 *.dSYM
